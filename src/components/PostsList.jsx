@@ -25,7 +25,7 @@ function PostsList() {
       </Modal>
       <ul className={classes.posts}>
         <Post autor={enteredAuthor} body={enteredBody} />
-        <Post autor="claudiu" body="React.js is not!" />
+        <Post autor="claudiul" body="React.js is not!" />
       </ul>
     </>
   );
